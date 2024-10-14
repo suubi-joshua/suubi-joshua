@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently volunteering. 
 
-- 🌱 I’m currently learning **React native, Spring,Postgres SQL**
+- 🌱 I’m currently learning **Spring,Postgres SQL**
 
-- 💬 Ask me about **Java Hibernate React Linux**
+- 💬 Ask me about **Java React Linux**
 
 - 📫 How to reach me **ssebaanajoshua@gmail.com**
 
-- ⚡ Fun fact **I love bugs.**
+- ⚡ Fun fact **I love Open Source.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
