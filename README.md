@@ -42,12 +42,13 @@ Design       →  Figma · Adobe Illustrator
 ### 📈 Pulse
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suubi-joshua&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0D1117&hide_rank=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suubi-joshua&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&langs_count=6" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=suubi-joshua&theme=github-dark&hide_border=true&background=0D1117" width="96%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=suubi-joshua&theme=github-dark&hide_border=true&background=0D1117" width="96%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suubi-joshua&theme=github_dark" width="96%" />
 </div>
 
 ---
