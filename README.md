@@ -15,6 +15,10 @@ philosophy: "Good software should work for everyone — especially those who nee
 site: suubi-joshua.github.io
 ```
 
+<p align="center">
+  <a href="https://suubi-joshua.github.io" target="_blank"><strong>↗ suubi-joshua.github.io</strong></a>
+</p>
+
 ---
 
 ### 🔭 What I'm Building
